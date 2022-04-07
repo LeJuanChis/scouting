@@ -1,0 +1,3 @@
+<div class="main-index">
+    <p class="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit incidunt cumque doloribus laborum magni eius, autem aperiam, aspernatur velit, maxime commodi fugiat dolorum officiis explicabo id? Temporibus numquam facilis enim nostrum expedita quisquam quae, voluptate voluptas soluta amet minima non! Quae, nihil, quia debitis, accusantium nam possimus beatae doloribus placeat incidunt explicabo ipsam est! Dolor nesciunt vero cupiditate odit rerum. Omnis velit nostrum excepturi itaque voluptatem ea minima aliquam magnam deleniti aut voluptatibus tempore corrupti soluta aspernatur, enim a repudiandae.</p>
+</div>
